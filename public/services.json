@@ -1,0 +1,12 @@
+[
+    {"id":1,"name":"Cradiac Sergery","description":" Founded in mid-2016, the Cardiac surgery department of Tonmoys Medic.","img":"https://i.ibb.co/5BH6g1f/cardiac-Sergery.jpg"},
+    {"id":2,"name":"Neurology","description":" Founded in mid-2016, the neuro surgery department of Tonmoys Medic.","img":"https://i.ibb.co/pz2QYhk/neurology.jpg"},
+    {"id":3,"name":"Diabetes","description":" Founded in mid-2016, the Diabetes care unit department of Tonmoys Medic.","img":"https://i.ibb.co/yNNjrWc/diabetes.jpg"},
+    {"id":4,"name":"Dermatology","description":" Founded in mid-2016, the Dermatology department of Tonmoys Medic.","img":"https://i.ibb.co/dtpnTvB/dermatology.jpg"},
+    {"id":5,"name":"Urology","description":" Founded in mid-2016, the Urology department of Tonmoys Medic.","img":"https://i.ibb.co/8xFBBk0/urology.jpg"},
+    {"id":6,"name":"Vascular Sergery","description":" Founded in mid-2016, the Vascular surgery department of Tonmoys Medic.","img":"https://i.ibb.co/Lxh64k9/vascular.jpg"},
+    {"id":7,"name":"Onocology","description":" Founded in mid-2016, the Oncology care department of Tonmoys Medic.","img":"https://i.ibb.co/yBp08qh/onocology.jpg"},
+    {"id":8,"name":"Nephrology","description":" Founded in mid-2016, the Nephrology department of Tonmoys Medic.","img":"https://i.ibb.co/q0YynRB/nephrology.jpg"},
+    {"id":9,"name":"ICU","description":"We have Specialized 100 bed ICU available in  Tonmoys Medic.","img":"https://i.ibb.co/8m8qp8P/icu.jpg"}
+]
+
