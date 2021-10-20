@@ -1,15 +1,16 @@
 import React from 'react';
 import Banner from '../Banner/Banner';
+import Directors from '../Directors/Directors';
 import Services from '../services/Services';
-import Footer from '../Shared/Footer/Footer';
-import Header from '../Shared/Header/Header';
+import Tmedic from '../Tmedic/Tmedic';
+
 
 const Home = () => {
    
     return (
-        <div>
+        <div id="home">
             <div>
-                <Header></Header>
+                
             </div>
             <div className="">
                 <Banner></Banner>
@@ -18,7 +19,10 @@ const Home = () => {
                 <Services></Services>
             </div>
            <div>
-               <Footer></Footer>
+                <Tmedic></Tmedic>
+           </div>
+           <div>
+               <Directors></Directors>
            </div>
         </div>
     );

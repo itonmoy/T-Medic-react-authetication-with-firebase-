@@ -12,7 +12,7 @@ const Service = ({service}) => {
       
         <div className="m-2">
           <Card className="mx-auto pb-2" style={{ width: "21rem",backgroundColor:"lightcyan" }}>
-            <Card.Img variant="top" className="img-fluid p-2 width" src={img} />
+            <Card.Img variant="top" className="img-flui p-2 imgHeight" src={img} />
             <Card.Body className="my-1 py-1">
               <Card.Title>{name}</Card.Title>
             </Card.Body>
