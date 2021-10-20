@@ -1,4 +1,5 @@
-# TONMOY"S MEDIC (A hospital website)
+# TONMOY'S MEDIC (A hospital website)
+live link:
 
 
 
@@ -8,7 +9,7 @@
 ### `Easy Appointment`
  ## Anybody willing to get treatment can have easy appointment using this site
 
-### `Speciali=zed Doctors`
+### `Specialized Doctors`
 
 ## You can have specialize doctors from all over the world.
 
