@@ -1,8 +1,30 @@
-# Getting Started with Create React App
+# TONMOY"S MEDIC (A hospital website)
+
+
+
+## Facilities of this site
+
+
+### `Easy Appointment`
+ ## Anybody willing to get treatment can have easy appointment using this site
+
+### `Speciali=zed Doctors`
+
+## You can have specialize doctors from all over the world.
+
+### `Location`
+## Our Care center is located at vey familiar place of the Capital of Bangladesh, which prevent harrasment of traffic jam.
+
+
+### `Low cost`
+
+## Person who is willing to have a better treatment in low cost can come to us for his eternal satisfaction with any health problems.
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 

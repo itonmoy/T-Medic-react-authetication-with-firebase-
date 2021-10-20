@@ -5,7 +5,7 @@ import './Director.css'
 
 const Directors = () => {
     return (
-        <div className="bg-info mt-1">
+        <div className="bg-secondary text-white mt-1">
             <h2>Special COVID Unit</h2>
              <div className="directorpic">
                  <div>
